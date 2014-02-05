@@ -1,4 +1,6 @@
 #!/bin/sh
 
 echo "hello world"
-echo "hello world2"
+echo "second feature"
+echo "rel 2"
+
